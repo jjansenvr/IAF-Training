@@ -1,2 +1,3 @@
 # IAF-Training
-setting up training
+setting up training for Ibis Applications
+
